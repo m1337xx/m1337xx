@@ -3,6 +3,10 @@
 - 🔭 I’m currently working on some private projects.
 - 🌱 I’m currently learning JavaScript.
 
+### About me:
+- 🧑‍💻 My name is Max.
+- 🎂 I’m 16 years old.
+
 ### Languages I know:
 - ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -13,5 +17,4 @@
 - Discord: **kreditkartenbetrug**
 - Email: **m1337x@duck.com**
 
-### Github Profile Views:
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=m1337xx&style=flat-square)
