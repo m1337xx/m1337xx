@@ -32,6 +32,9 @@
 - ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1337xx&show_icons=true&hide_border=true&count_private=true)
+
 ### Contact me:
 - Discord: **kreditkartenbetrug**
 - Email: **m1337x@duck.com**
