@@ -28,5 +28,3 @@
 - Email: **m1337x@duck.com**
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=m1337xx&style=flat-square)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m1337xx)
