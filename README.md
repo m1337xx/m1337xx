@@ -35,8 +35,8 @@
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1337xx&show_icons=true&hide_border=true&count_private=true)
 
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=m1337xx&style=flat-square)
+
 ### Contact me:
 - Discord: **kreditkartenbetrug**
 - Email: **m1337x@duck.com**
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=m1337xx&style=flat-square)
