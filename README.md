@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on some private projects.
-- 🌱 I’m currently learning JavaScript.
 
 ### About me:
 - 🧑‍💻 My name is Max.
