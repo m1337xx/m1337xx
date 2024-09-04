@@ -4,7 +4,7 @@
 
 ### About me:
 - 🧑‍💻 My name is Max.
-- 🎂 I’m 16 years old.
+- 🎂 I’m 17 years old.
 
 ### Programming Languages I worked with:
 - ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
