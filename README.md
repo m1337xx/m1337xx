@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on some private projects.
 
 ### About me:
-- 🧑‍💻 My name is Max.
 - 🎂 I’m 17 years old.
 
 ### Programming Languages I worked with:
