@@ -46,7 +46,6 @@
 ---
 
 ### GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=m1337xx&theme=radical&hide_border=true)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1337xx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
