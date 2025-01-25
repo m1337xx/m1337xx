@@ -52,4 +52,4 @@
 
 ### Contact Me:
 - **Discord:** `kreditkartenbetrug`  
-- **Email:** [m1337x@duck.com](mailto:m1337x@duck.com)  
+- **Email:** [m1337x@duck.com](mailto:m1337x@duck.com)
