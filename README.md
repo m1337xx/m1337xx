@@ -1,15 +1,15 @@
 ## Hi there 👋  
 
-- 🔭 **I’m currently working on private projects.**  
+- 🔭 **I'm currently working on private projects.**  
 
 ---
 
 ### About Me:
-- 🎂 **I’m 18 years old.**  
+- 🎂 **I'm 18 years old.**  
 
 ---
 
-### Programming Languages I’ve Worked With:
+### Programming Languages I've Worked With:
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
