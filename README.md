@@ -1,11 +1,19 @@
 ## Hi there 👋  
 
-- 🔭 **I'm currently working on private projects.**  
+---
+
+### About Me
+Backend • Systems • Security  
+18 y/o developer focused on building and breaking things :^)
 
 ---
 
-### About Me:
-- 🎂 **I'm 18 years old.**  
+### Projects
+- 📷 **img.based.cat**  
+  Simple image uploader for fast file sharing
+
+- 🎮 **Light-Network (GMod Community)**  
+  Managed and developed a Garry's Mod community including server infrastructure, scripting, and maintenance 
 
 ---
 
@@ -53,7 +61,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 
 ---
 
