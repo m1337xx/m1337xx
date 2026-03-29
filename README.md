@@ -24,8 +24,7 @@ Backend • Systems • Security
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/HolyC_Logo.svg" width="20"> 
-<img src="https://img.shields.io/badge/HolyC-TempleOS-ff69b4?style=for-the-badge">
+![HolyC](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/HolyC_Logo.svg/330px-HolyC_Logo.svg.png?_=20201031010606)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
