@@ -12,10 +12,11 @@ Backend • Systems • Security
 ### Projects
 
 * 📷 **img.based.cat**
-  Simple image uploader for fast, no bullshit file sharing
+  Simple image uploader for fast, no-bullshit file sharing
 
 * 🎮 **Light-Network (GMod Community)**
-  Built and maintained a Garry's Mod infrastructure (servers, scripting, automation)
+  Built and maintained a Garry's Mod infrastructure
+  (servers, scripting, automation)
 
 ---
 
@@ -65,12 +66,6 @@ Backend • Systems • Security
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
----
-
-### GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1337xx\&layout=compact\&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
