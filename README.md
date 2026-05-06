@@ -9,10 +9,10 @@ Backend • Systems • Security
 ---
 
 ### Projects
-- 📷 **img.based.cat**  
+- **img.based.cat**  
   Simple image uploader for fast file sharing
 
-- 🎮 **Light-Network (GMod Community)**  
+- **Light-Network (GMod Community)**  
   Managed and developed a Garry's Mod community including server infrastructure, scripting, and maintenance 
 
 ---
