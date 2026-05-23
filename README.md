@@ -10,7 +10,11 @@ Backend • Systems • Security
 
 ### Projects
 - **img.based.cat**  
-  Simple image uploader for fast file sharing
+  Simple image uploader for fast file sharing, made by me.
+
+- **getvortex.vip / Vortex**
+  Good and cheap Scripts for roblox.
+  Infrastructure administration and backend management.
 
 - **Light-Network (GMod Community)**  
   Managed and developed a Garry's Mod community including server infrastructure, scripting, and maintenance 
