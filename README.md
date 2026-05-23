@@ -69,7 +69,7 @@ Backend • Systems • Security
 
 ### Contact Me:
 - **Discord:** `kreditkartenbetrug`  
-- **Email:** [contact@zunlegit.ru](mailto:contact@zunlegit.ru)
+- **Email:** [info@zunlegit.vip](mailto:info@zunlegit.vip)
 
 ---
 
