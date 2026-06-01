@@ -9,11 +9,11 @@ Backend • Systems • Security
 ---
 
 ### Projects
-- **img.based.cat**  
-  Simple image uploader for fast file sharing, made by me.
+- **based.cat**  
+  Customizable bio-link & profile-page platform with built-in image/file hosting, made by me and @Majora144.
 
 - **Vortex**  
-    Cheap Scripts for the Roblox game called "Emergency Hamburg". Infrastructure administration and backend management.
+  Cheap Scripts for the Roblox game called "Emergency Hamburg". Infrastructure administration and backend management.
 
 - **Light-Network (GMod Community)**  
   Managed and developed a Garry's Mod community including server infrastructure, scripting, and maintenance 
