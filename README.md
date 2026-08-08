@@ -71,7 +71,7 @@ Backend • Systems • Security
 ---
 
 ### Contact Me:
-- **Discord:** `kreditkartenbetrug`  
+- **Discord:** `archlinuxlover`  
 - **Email:** [info@zunlegit.vip](mailto:info@zunlegit.vip)
 
 ---
