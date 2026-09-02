@@ -4,7 +4,7 @@
 
 ### About Me
 Backend • Systems • Security  
-18 y/o developer focused on building and breaking things :^)
+19 y/o developer focused on building and breaking things :^)
 
 ---
 
